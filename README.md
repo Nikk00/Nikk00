@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, yo soy Nicolás Luza</h1>
 <h3 align="center">Ingeniero Civil en Informática || Desarrollador FullStack JS</h3>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 Actualmente estoy aprendiendo **Frameworks y Flutter**
 
-- 👨‍💻 All of my projects are available at [https://nicolasluza.vercel.app/](https://nicolasluza.vercel.app/)
+- 👨‍💻 Todos mis proyectos están disponibles [https://nicolasluza.vercel.app/](https://nicolasluza.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Pregúntame sobre **react**
 
-- 📫 How to reach me **nicolas.luza.pino@gmail.com**
+- 📫 Como contactarme **nicolas.luza.pino@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectate conmigo::</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolasluzapino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasluzapino" height="30" width="40" /></a>
 </p>
