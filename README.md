@@ -3,9 +3,9 @@
 
 - 🌱 Actualmente estoy aprendiendo **Frameworks y Flutter**
 
-- 👨‍💻 Todos mis proyectos están disponibles [https://nicolasluza.vercel.app/](https://nicolasluza.vercel.app/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://nicolasluza.vercel.app/](https://nicolasluza.vercel.app/)
 
-- 💬 Pregúntame sobre **react**
+- 💬 Pregúntame sobre **React o JavaScript**
 
 - 📫 Como contactarme **nicolas.luza.pino@gmail.com**
 
