@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, yo soy Nicolás Luza</h1>
 <h3 align="center">Ingeniero Civil en Informática || Desarrollador FullStack JS</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Frameworks y Flutter**
+- 🌱 Actualmente estoy aprendiendo **React Native y Flutter**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://nicolasluza.vercel.app/](https://nicolasluza.vercel.app/)
 
